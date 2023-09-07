@@ -13,20 +13,28 @@ Clone or download the project to your local machine.
 Open the index.html file in a web browser.
 You'll see the counter displayed on the screen with two buttons, "+1" and "-1".
 Click the "+1" button to increment the counter, and click the "-1" button to decrement it.
+
 Files Included
 
 index.html: Contains the HTML structure and buttons.
+
 style.css: Defines the CSS styles for the counter and buttons.
+
 script.js: Contains the JavaScript code for handling the counter functionality.
 
 Customize
+
 Feel free to customize the appearance or behavior of the counter by editing the CSS and JavaScript files as needed. You can change colors, fonts, or add additional features to suit your preferences.
 
 License
+
 This project is open-source and available under the MIT License. You are free to use, modify, and distribute it as per the terms of the license.
 
 Author
+
 Harsh Sharma
-If you have any questions or feedback, please feel free to contact [Your Email Address].
+
+If you have any questions or feedback, please feel free to contact.
+
 
 Enjoy using the simple counter!
