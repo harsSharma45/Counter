@@ -1,12 +1,14 @@
-Simple Counter
+Simple Counter:
+
+
 This is a basic counter application created using HTML, CSS, and JavaScript. It allows you to increment and decrement a counter value.
 
-Features
+Features:
 Increment: Click the "+1" button to increase the counter value by one.
 Decrement: Click the "-1" button to decrease the counter value by one.
-Reset     : Set counter to zero.
+Reset: Set counter to zero.
 
-How to Use
+How to Use:
 Clone or download the project to your local machine.
 Open the index.html file in a web browser.
 You'll see the counter displayed on the screen with two buttons, "+1" and "-1".
