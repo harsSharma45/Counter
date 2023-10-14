@@ -1,4 +1,4 @@
-Simple Counter:
+Simple Counter
 
 
 This is a basic counter application created using HTML, CSS, and JavaScript. It allows you to increment and decrement a counter value.
@@ -34,7 +34,7 @@ Author
 
 Harsh Sharma
 
-If you have any questions or feedback, please feel free to contact.
+If you have any questions or feedback, please feel free to contact me.
 
 
 Enjoy using the simple counter!
